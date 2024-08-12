@@ -1,0 +1,50 @@
+@media (min-width: 320px) and (max-width: 767px) {
+    .main_login {
+        max-width: 100% !important;
+        margin: 0 auto;
+    }
+    .left_login_sec.col-md-6 {
+        display: none;
+    }
+    .right_login_sec.col-md-6 {
+        padding-left: 10px;
+    }
+    .login_sec {
+        border-top-left-radius: 4px !important;
+        border-bottom-left-radius: 4px !important;
+    }
+    .MuiGrid-root.MuiGrid-container.MuiGrid-spacing-xs-3.css-zow5z4-MuiGrid-root {
+        display: block !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    ul.menubar_list {
+        overflow: auto !important;
+        position: initial !important;
+        width: 100% !important;
+        bottom: 0;
+        background: #292b32;
+        scroll-behavior: smooth;
+        scrollbar-width: none;
+        padding: 10px;
+        top: 80px !important;
+    }
+    .MuiGrid-root.MuiGrid-container.css-11lq3yg-MuiGrid-root {
+        display: block !important;
+    }
+    .css-zow5z4-MuiGrid-root {
+        margin-left: -11px !important;
+    }
+    .css-mhc70k-MuiGrid-root {
+        justify-content: center !important;
+        display: block !important;
+    }
+    .main_content, .add_document {
+        padding: 0px !important;
+    }
+    .header_section {
+        justify-content: center;
+        display: block !important;
+    }
+
+  }
